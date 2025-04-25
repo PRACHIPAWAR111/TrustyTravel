@@ -1,0 +1,57 @@
+/* Card Styling */
+/*.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Listing Image Styling */
+/*.listing-image-container {
+  width: 50px;
+  height: auto; /* Reduced height for better alignment */
+ /* overflow: hidden;
+  border-radius: 8px 8px 0 0;
+}
+
+.listing-image {
+  width: 50px;
+  height: auto;
+  object-fit: cover;  Ensures the image is cropped proportionally 
+}
+
+/* Review Card Styling 
+.review-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.review-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Show Page Card Styling 
+.show-card {
+  max-width: 50px;/* Reduced card width 
+  margin: 0 auto; /* Center the card 
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.show-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}*/
